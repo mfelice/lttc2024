@@ -92,7 +92,7 @@ Ani is from Kenya, Ben is from the UK and Chaya is from India.
 **8-A:** I hope so!  
 
 **Question**  
-Ani is taking a driving test. Why is she stressed about it?
+Ani is going to take a driving test. Why is she stressed about it?
 
 a) She hasn't practised much.  
 b) Her test has been postponed until next week.  
