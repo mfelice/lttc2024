@@ -54,8 +54,8 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 
 
 
+https://github.com/mfelice/ndlatam2023/assets/11545607/c8c015af-8d89-4c3f-9af9-76daef0bbaca
 
-Uploading asr-audio-clip.mp4…
 
 
 
