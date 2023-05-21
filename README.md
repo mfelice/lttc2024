@@ -60,11 +60,49 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 https://github.com/mfelice/ndlatam2023/assets/11545607/c8c015af-8d89-4c3f-9af9-76daef0bbaca
 
 ### ASR services
-**OpenAI Whisper:** https://replicate.com/openai/whisper
-**AssemblyAI:** https://www.assemblyai.com/playground/source
+**OpenAI Whisper:** https://replicate.com/openai/whisper  
+**AssemblyAI:** https://www.assemblyai.com/playground/source  
 
 ### WER calculator
 https://www.amberscript.com/en/wer-tool/
+
+## Speech synthesis (text to speech)
+### Task
+Create a listening comprehension question consisting of a dialogue between three people with different accents.
+
+1. Create a short dialogue and question.
+2. Create an audio file for each turn of the conversation using a TTS service.
+3. Join all the audio files together.
+
+**Sample dialogue**  
+Ani is from Kenya, Ben is from the UK and Chaya is from India.  
+
+**1-A:** Hi guys, how are you doing?  
+**2-B:** Hi Ani, not bad, thanks.  
+**3-C:** Yeah, all good. How about you?  
+**4-A:** A bit stressed to be honest... I've got my driving test today.  
+**5-B:** Really? I thought it was next week!  
+**6-A:** It was, but they changed it.  
+**7-C:** That's unfortunate. But you've practised a lot, I'm sure you'll pass!  
+**8-A:** I hope so!  
+
+**Question**
+Ani is taking a driving test. Why is she stressed about it?
+
+a) She hasn't practised much.  
+b) Her test has been postponed until next week.  
+d) Her test is today.  
+c) She is not confident she will pass.  
+
+### TTS services
+https://ttsfree.com/  
+https://ttsmp3.com/  
+https://ttstool.com/  
+
+### Audio joiner
+https://audio-joiner.com/
+
+
 
 
 
