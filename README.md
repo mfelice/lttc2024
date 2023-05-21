@@ -44,17 +44,27 @@ I live in Greece, and especially in an island, so I know very well what summer m
 I think that the summer makes people to feel great, to have fun, to enjoy themselves. I believe that the summer is a season for everybody who wants to have wonderful time and wonderful memories wherever the go.  
 
 ### Online grammar checkers
-**Grammarly: ** https://www.grammarly.com/grammar-check  
-**Ginger: ** https://www.gingersoftware.com/grammarcheck  
-**Writer: ** https://writer.com/grammar-checker/  
+**Grammarly:** https://www.grammarly.com/grammar-check  
+**Ginger:** https://www.gingersoftware.com/grammarcheck  
+**Writer:** https://writer.com/grammar-checker/  
 
 ### ERRANT
 https://nlptoolbox.cl.cam.ac.uk/errant/
 
-
-
+## Automatic speech recognition
+**Task**
+1. Listen to the following audio clip and manually transcribe what you hear.
+2. Use an ASR service to generate an automatic transcription of the audio.
+3. Compare both transcriptions and compute a word error rate (WER).
 
 https://github.com/mfelice/ndlatam2023/assets/11545607/c8c015af-8d89-4c3f-9af9-76daef0bbaca
+
+### ASR services
+**OpenAI Whisper:** https://replicate.com/openai/whisper
+**AssemblyAI:** https://www.assemblyai.com/playground/source
+
+### WER calculator
+https://www.amberscript.com/en/wer-tool/
 
 
 
