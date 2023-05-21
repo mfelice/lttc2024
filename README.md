@@ -18,8 +18,13 @@ https://demo.allennlp.org/next-token-lm
 https://huggingface.co/bert-base-uncased  
 https://huggingface.co/bert-large-uncased  
 
-### GTP-2 next word predictor
+### GTP-2 next word predictors
 http://claro-gpt2.uksouth.cloudapp.azure.com/  
+https://demo.allennlp.org/next-token-lm  
+
+### N-gram next word predictors
+https://fschoen.shinyapps.io/NextWordPrediction/  
+https://philferriere.shinyapps.io/WordPredictR/
 
 ## Automated essay scoring
 
