@@ -49,7 +49,8 @@ I live in Greece, and especially in an island, so I know very well what summer m
 I think that the summer makes people to feel great, to have fun, to enjoy themselves. I believe that the summer is a season for everybody who wants to have wonderful time and wonderful memories wherever the go.  
 
 ### Online grammar checkers
-**Grammarly:** https://www.grammarly.com/grammar-check  
+**Grammarly:** https://www.grammarly.com/grammar-check
+**QuillBot:** https://quillbot.com/grammar-check
 **Ginger:** https://www.gingersoftware.com/grammarcheck  
 **Writer:** https://writer.com/grammar-checker/  
 
