@@ -1,4 +1,4 @@
-# Making technology work for us: How does AI work and how can it help me?
+# AI in the classroom: tools and strategies for teaching and assessment
 
 ## Introduction
 
