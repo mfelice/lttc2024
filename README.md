@@ -128,6 +128,12 @@ https://gptzero.me/
 https://writer.com/ai-content-detector/  
 https://platform.openai.com/ai-text-classifier  
 https://contentatscale.ai/ai-content-detector/  
+https://www.wordtune.com/ai-content-detector  
+https://undetectable.ai/  
+https://originality.ai/ (paid)  
+
+### AI text "humanisers"
+https://undetectable.ai/ (paid)  
 
 ### Task
 Using ChatGPT, experiment with different prompts to perform the tasks in the previous slide.
