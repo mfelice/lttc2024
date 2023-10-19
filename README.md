@@ -67,6 +67,7 @@ https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826
 ### ASR services
 **OpenAI Whisper:** https://replicate.com/openai/whisper  
 **AssemblyAI:** https://www.assemblyai.com/playground/source  
+**VoiceGain:** https://demo.voicegain.ai/  
 
 ### WER calculator
 https://www.amberscript.com/en/wer-tool/
@@ -103,6 +104,9 @@ c) She is not confident she will pass.
 https://ttsfree.com/  
 https://ttsmp3.com/  
 https://ttstool.com/  
+https://huggingface.co/spaces/elevenlabs/tts  
+https://freetools.textmagic.com/text-to-speech  
+https://speechgen.io/
 
 ### Audio joiner
 https://audio-joiner.com/
@@ -135,13 +139,14 @@ https://originality.ai/
 https://undetectable.ai/ (paid)  
 
 ### Task
-Using ChatGPT, experiment with different prompts to perform the tasks in the previous slide.
+Using an LLM, experiment with different prompts to perform the tasks in the previous slide.
 How would you rate the quality of the output?
 How much effort does it take to achieve the desired results?
 
-### ChatGPT
-https://chat.openai.com/
+### LLMs
 
-### BAI Chat (ChatGPT-based, no account needed)
-https://chatbot.theb.ai
-
+**ChatGPT:** https://chat.openai.com/  
+**Bing Chat (GPT-4):** https://www.microsoft.com/en-us/edge/launch/bing-chat-features?form=MT00IR  
+**ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ https://talkai.info/chat/  
+**Llama 2:** https://labs.perplexity.ai/ https://www.llama2.space/  
+**Claude:** https://claude.ai/  
