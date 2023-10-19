@@ -113,7 +113,14 @@ https://audio-joiner.com/
 
 ## Large language models
 
-### Task
+### LLMs
+**ChatGPT:** https://chat.openai.com/  
+**Bing Chat (GPT-4):** https://www.microsoft.com/en-us/edge/launch/bing-chat-features?form=MT00IR  
+**ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ https://talkai.info/chat/  
+**Llama 2:** https://labs.perplexity.ai/ https://www.llama2.space/  
+**Claude:** https://claude.ai/  
+
+### Task I
 Can you guess who wrote these texts?
 A human or a machine?
 
@@ -135,18 +142,36 @@ https://www.wordtune.com/ai-content-detector
 https://undetectable.ai/  
 https://originality.ai/ (paid)  
 
+### Task II
+
+Can you “humanise” the following AI-generated text?
+Can we fool detectors?
+
+**The Importance of Art**
+
+Art is a vital part of human life. It offers many benefits to individuals and society as a whole. One of art's most important roles is as a universal language that can bridge cultural gaps and foster understanding among diverse communities. Art also provides a unique way to express emotions and explore oneself.
+
+In education, art can enhance cognitive development, creativity, and problemsolving skills. It can also beautify our surroundings and instill a sense of pride and cultural identity within communities. Furthermore, art can challenge societal norms and encourage critical thinking, making it a catalyst for social change and progress.
+
+In essence, art is more than just a form of entertainment; it is a powerful tool that can enrich lives, promote empathy, and nurture creativity. By embracing art in all its forms, we can enhance our collective human experience and create a more vibrant and culturally rich society.
+
 ### AI text "humanisers"
 https://undetectable.ai/ (paid)  
+
+
+## Text to image
 
 ### Task
 Using an LLM, experiment with different prompts to perform the tasks in the previous slide.
 How would you rate the quality of the output?
 How much effort does it take to achieve the desired results?
 
-### LLMs
+### Task
+Can you write a prompt to generate an image like this one?  
 
-**ChatGPT:** https://chat.openai.com/  
-**Bing Chat (GPT-4):** https://www.microsoft.com/en-us/edge/launch/bing-chat-features?form=MT00IR  
-**ChatGPT (no registration, unofficial):** https://chat.chatgptdemo.net/ https://talkai.info/chat/  
-**Llama 2:** https://labs.perplexity.ai/ https://www.llama2.space/  
-**Claude:** https://claude.ai/  
+![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
+
+### AI image generators
+**DALL·E 2:** https://labs.openai.com/  
+**Stable Diffusion:** https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
+**Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
