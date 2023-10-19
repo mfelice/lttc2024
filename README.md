@@ -130,7 +130,7 @@ https://platform.openai.com/ai-text-classifier
 https://contentatscale.ai/ai-content-detector/  
 https://www.wordtune.com/ai-content-detector  
 https://undetectable.ai/  
-https://originality.ai/ (paid)  
+https://originality.ai/  
 
 ### AI text "humanisers"
 https://undetectable.ai/ (paid)  
