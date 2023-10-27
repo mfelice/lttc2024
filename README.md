@@ -19,6 +19,7 @@ https://huggingface.co/bert-large-uncased
 
 ### GTP-2 next word predictors
 https://demo.allennlp.org/next-token-lm  
+https://huggingface.co/spaces/Bhagu69/next-word-fun  
 
 ### N-gram next word predictors
 https://fschoen.shinyapps.io/NextWordPrediction/  
