@@ -162,11 +162,6 @@ https://undetectable.ai/ (paid)
 ## Text to image
 
 ### Task
-Using an LLM, experiment with different prompts to perform the tasks in the previous slide.
-How would you rate the quality of the output?
-How much effort does it take to achieve the desired results?
-
-### Task
 Can you write a prompt to generate an image like this one?  
 
 ![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
