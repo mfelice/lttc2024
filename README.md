@@ -168,6 +168,9 @@ In essence, art is more than just a form of entertainment; it is a powerful tool
 ### AI text "humanisers"
 https://undetectable.ai/ (paid)  
 
+### Task III  
+Can ChatGPT score texts by their CEFR level?  
+Is it accurate? How can you make it better?  
 
 ## Text to image
 
