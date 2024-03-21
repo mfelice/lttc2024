@@ -13,7 +13,7 @@ www.menti.com
 Maria's working knowledge of Chinese led her to a chance encounter in a tea shop. Impressed by her fluency, an art dealer offered her an apprenticeship in Beijing. Her life transformed as she immersed herself in Chinese art, becoming a renowned curator whose expertise knew no borders.
 
 ### BERT
-https://huggingface.co/xlm-roberta-large (multilingual)
+https://huggingface.co/xlm-roberta-large (multilingual)  
 https://huggingface.co/spaces/UserConfused/bert-base-uncased  
 https://huggingface.co/spaces/docs-demos/bert-base-uncased  
 https://huggingface.co/bert-base-uncased  
