@@ -52,7 +52,11 @@ I think that the summer makes people to feel great, to have fun, to enjoy themse
 **Grammarly:** https://www.grammarly.com/grammar-check  
 **QuillBot:** https://quillbot.com/grammar-check  
 **Ginger:** https://www.gingersoftware.com/grammarcheck  
-**Writer:** https://writer.com/grammar-checker/  
+**Linguix:** https://writer.com/grammar-checker/  
+**ProWritingAid:** https://prowritingaid.com/grammar-checker  
+**PaperRater:** https://www.paperrater.com/free_paper_grader  
+**Reverso:** https://www.reverso.net/spell-checker/english-spelling-grammar/  
+
 
 ### ERRANT
 https://nlptoolbox.cl.cam.ac.uk/errant/
