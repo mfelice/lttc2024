@@ -15,11 +15,11 @@ Maria's working knowledge of Chinese led her to a chance encounter in a tea shop
 ### BERT
 https://huggingface.co/xlm-roberta-large (multilingual)
 https://huggingface.co/spaces/UserConfused/bert-base-uncased  
+https://huggingface.co/spaces/docs-demos/bert-base-uncased  
 https://huggingface.co/bert-base-uncased  
 https://huggingface.co/bert-large-uncased  
 
 ### GTP-2 next word predictors
-https://demo.allennlp.org/next-token-lm  
 https://huggingface.co/spaces/Bhagu69/next-word-fun  
 
 ### N-gram next word predictors
