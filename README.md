@@ -169,7 +169,7 @@ In essence, art is more than just a form of entertainment; it is a powerful tool
 https://undetectable.ai/ (paid)  
 
 ### Task III  
-Can LLMs score texts by their CEFR level?  
+Can an LLM score texts by their CEFR level?  
 Is it accurate? How can you make it better?  
 
 ## Text to image
