@@ -147,7 +147,6 @@ Society has a responsibility to take care of the environment. We all live on thi
 ### AI content detectors
 https://gptzero.me/  
 https://writer.com/ai-content-detector/  
-https://platform.openai.com/ai-text-classifier  
 https://contentatscale.ai/ai-content-detector/  
 https://www.wordtune.com/ai-content-detector  
 https://undetectable.ai/  
@@ -178,6 +177,6 @@ Can you write a prompt to generate an image like this one?
 ![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
 
 ### AI image generators
-**DALL·E 2:** https://labs.openai.com/  
+**DALL·E:** https://labs.openai.com/  
 **Stable Diffusion:** https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
 **Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
