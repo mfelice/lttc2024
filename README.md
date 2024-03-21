@@ -69,8 +69,13 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 
 https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826e84a93e9
 
+Download the audio file: [https://filebin.net/o7fq43zgxtufoonv/asr-audio-clip.mp3](here)
+
 ### ASR services
-**OpenAI Whisper:** https://replicate.com/openai/whisper  
+**OpenAI Whisper**   
+https://huggingface.co/spaces/sanchit-gandhi/whisper-jax  
+https://huggingface.co/spaces/hf-audio/whisper-large-v3  
+https://deepinfra.com/openai/whisper-large  
 **AssemblyAI:** https://www.assemblyai.com/playground/source  
 **VoiceGain:** https://demo.voicegain.ai/  
 
@@ -86,7 +91,7 @@ Create a listening comprehension question consisting of a dialogue between three
 3. Join all the audio files together.
 
 **Sample dialogue**  
-Ani is from Kenya, Ben is from the UK and Chaya is from India.  
+Ani is from Australia, Ben is from the UK and Chaya is from India.  
 
 **1-A:** Hi guys, how are you doing?  
 **2-B:** Hi Ani, not bad, thanks.  
@@ -106,6 +111,7 @@ d) Her test is today.
 c) She is not confident she will pass.  
 
 ### TTS services
+https://freetools.textmagic.com/text-to-speech  
 https://ttsfree.com/  
 https://ttsmp3.com/  
 https://ttstool.com/  
