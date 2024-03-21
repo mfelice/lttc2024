@@ -69,7 +69,7 @@ https://nlptoolbox.cl.cam.ac.uk/errant/
 
 https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826e84a93e9
 
-Download the audio file: [https://filebin.net/o7fq43zgxtufoonv/asr-audio-clip.mp3](here)
+Download the audio file: [here](https://filebin.net/o7fq43zgxtufoonv/asr-audio-clip.mp3)
 
 ### ASR services
 **OpenAI Whisper**   
