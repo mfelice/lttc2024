@@ -179,6 +179,9 @@ Can you write a prompt to generate an image like this one?
 
 ![picture](https://github.com/mfelice/ndea2023/assets/11545607/aadd2fe3-9ad6-4c3c-b5a1-41d090ad45a1)
 
+
+[x](https://www.dropbox.com/scl/fo/0nq35552rjrf3dg9z7e3f/h?rlkey=5pxrjuwmyfszmn4frq73yk41i&dl=0)
+
 ### AI image generators
 **DALL·E:** https://labs.openai.com/  
 **Stable Diffusion:** https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
