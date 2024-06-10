@@ -184,9 +184,3 @@ Can you write a prompt to generate an image like this one?
 **Stable Diffusion:** https://stablediffusionweb.com/#demo https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0 https://huggingface.co/spaces/songweig/rich-text-to-image  
 **Openjourney 4:** https://huggingface.co/prompthero/openjourney-v4  
 
-
-
-
-
-
-[x](https://www.dropbox.com/scl/fo/0nq35552rjrf3dg9z7e3f/h?rlkey=5pxrjuwmyfszmn4frq73yk41i&dl=0)
